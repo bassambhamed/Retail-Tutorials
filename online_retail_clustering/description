@@ -1,0 +1,19 @@
+Aperçu
+
+La vente au détail en ligne est un ensemble de données comprenant toutes les transactions effectuées entre le 01/12/2010 et le 09/12/2011 pour un commerce de détail en ligne sans magasin, basé et enregistré au Royaume-Uni. L'entreprise vend principalement des cadeaux uniques pour toutes les occasions. De nombreux clients de l'entreprise sont des grossistes.
+
+Objectif
+
+Segmentation des clients afin que l'entreprise puisse cibler ses clients efficacement. 
+
+Description des features
+
+* InvoiceNo: Numéro de facture. C'est un nombre entier à 6 chiffres attribué de manière unique à chaque transaction. Si ce code commence par la lettre 'c', cela indique une annulation.
+* StockCode: Code produit (article). C'est aussi un nombre entier à 5 chiffres attribué de manière unique à chaque produit distinct.
+* Description: Nom du produit (article).
+* Quantity: Les quantités de chaque produit (article) par transaction. 
+* InvoiceDate: Date et heure auxquels chaque transaction a été générée.
+* UnitPrice: Prix unitaire du produit en livres sterling.
+* CustomerID: Identifiant de client. C'est un nombre entier à 5 chiffres attribué de manière unique à chaque client.
+* Country: Le nom du pays où réside chaque client.
+
