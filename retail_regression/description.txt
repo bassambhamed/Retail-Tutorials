@@ -1,0 +1,30 @@
+Prévision des ventes en détail
+
+Un supermarché géant opère dans le monde entier et traite toutes les principales catégories de produits. Dans cette analyse, un modèle de prévision sera développé à l'aide d'algorithmes d'apprentissage automatique pour améliorer la précision des prévisions de ventes. Plusieurs méthodes de régression seront comparées.
+
+Description des features 
+
+* 'Row ID' : Identifiant ligne
+* 'Order ID' : Identifiant ordre
+* 'Order Date' : Date ordre
+* 'Ship Date' : Date d'expédition
+* 'Ship Mode' : Mode d'expédition
+* 'Customer ID' : Identifiant client
+* 'Customer Name' : Nom client
+* 'Segment' : Ségment
+* 'City' : Cité
+* 'State' : Etat
+* 'Country' : Pays
+* 'Postal Code' : Code postal
+* 'Market' : Marché
+* 'Region' : Région
+* 'Product ID' : identifiant produit
+* 'Category' : Catégorie du produit 
+* 'Sub-Category' : Sous-catégorie du produit
+* 'Product Name' : Nom du produit
+* 'Quantity' : Quantité
+* 'Discount' :  Remise
+* 'Profit' : Profit
+* 'Shipping Cost' : Frais d'expédition
+* 'Order Priority' : Ordre de priorité
+* 'Sales' : Ventes
